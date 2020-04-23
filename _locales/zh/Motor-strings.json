@@ -1,0 +1,6 @@
+{
+    "Motor.init|block": "初始化电机 地址 %addr",
+    "Motor.setSpeedL|block": "设置左电机 速度 %lspeed",
+    "Motor.setSpeedR|block": "设置右电机 速度 %rspeed",
+    "Motor.setSpeed|block": "设置电机速度 左 %lspeed 右 %rspeed"
+}
